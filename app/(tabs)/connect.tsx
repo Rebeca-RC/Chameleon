@@ -22,12 +22,12 @@ const data = [
     description: 'Stay updated with real-time announcements and chats',
     url: 'https://telegram.me/Chameleon_Network',
   },
-  {
-    icon:  { component: FontAwesome5, name: 'reddit-alien', size: 30, color: '#18bb59' },
-    title: 'Reddit',
-    description: 'Join our subreddit to discuss updates and share feedback.',
-    url: 'https://www.reddit.com/r/ChameleonNetwork/',
-  },
+  // {
+  //   icon:  { component: FontAwesome5, name: 'reddit-alien', size: 30, color: '#18bb59' },
+  //   title: 'Reddit',
+  //   description: 'Join our subreddit to discuss updates and share feedback.',
+  //   url: 'https://www.reddit.com/r/ChameleonNetwork/',
+  // },
   {
     icon:  { component: FontAwesome6, name: 'x-twitter', size: 30, color: '#18bb59' },
     title: 'Twitter (X)',
